@@ -5,11 +5,13 @@ This repository contains generated images related to **Image Generation using AI
 ## Images
 
 ### 1. Dwarka Architecture
-![Dwarka Architecture]("C:\Users\ASUS\Pictures\Screenshots\Screenshot 2024-09-23 185349.png")
+![Dwarka Architecture](![Screenshot 2024-09-23 185349](https://github.com/user-attachments/assets/355f6187-68a1-4af9-87ef-9772f703c1dc)
+)
 *Description:* A stunning image of golden temple architecture, with intricate details and vibrant colors under a bright blue sky. The design reflects rich cultural elements and fine craftsmanship.
 
 ### 2. Desert Sunset with Cacti
-![Desert Sunset](./Screenshot%202024-09-23%20191151.png)
+![Desert Sunset](![Screenshot 2024-09-23 191151](https://github.com/user-attachments/assets/423f17c2-7aa8-4390-a6dd-99105d7f1380)
+)
 *Description:* A breathtaking view of a desert landscape at sunset, with golden sand dunes and various species of cacti casting long shadows under the setting sun.
 
 ## How to Run
