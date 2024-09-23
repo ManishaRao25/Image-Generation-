@@ -7,6 +7,8 @@ This repository contains generated images related to **Image Generation using AI
 ### 1. Dwarka Architecture
 ![Dwarka Architecture](![Screenshot 2024-09-23 185349](https://github.com/user-attachments/assets/355f6187-68a1-4af9-87ef-9772f703c1dc)
 )
+![Dwarka Architecture](![Screenshot 2024-09-23 185424](https://github.com/user-attachments/assets/0accb872-bd57-4eb3-bc01-8d7f400e214f)
+)
 *Description:* A stunning image of Dwarka temple architecture, with intricate details and vibrant colors under a bright blue sky. The design reflects rich cultural elements and fine craftsmanship.
 
 ### 2. Desert Sunset with Cacti
@@ -21,7 +23,7 @@ This repository contains generated images related to **Image Generation using AI
    To run this notebook, follow these steps:
    1. Clone the repository:  
       ```bash
-      git clone https://github.com/ManishaRao25/Image-Generation.git
+      git clone https://github.com/ManishaRao25/Image-Generation-.git
       cd genai-image-generation
       ```
    2. Open the notebook in Jupyter Notebook or Google Colab:
