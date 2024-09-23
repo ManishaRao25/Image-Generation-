@@ -5,7 +5,7 @@ This repository contains generated images related to **Image Generation using AI
 ## Images
 
 ### 1. Dwarka Architecture
-![Golden Temple](./Screenshot%202024-09-23%20185424.png)
+![Dwarka Architecture]("C:\Users\ASUS\Pictures\Screenshots\Screenshot 2024-09-23 185349.png")
 *Description:* A stunning image of golden temple architecture, with intricate details and vibrant colors under a bright blue sky. The design reflects rich cultural elements and fine craftsmanship.
 
 ### 2. Desert Sunset with Cacti
@@ -43,6 +43,6 @@ pip install -r requirements.txt
 
 ### Instructions:
 - Replace the `ManishaRao25` in the clone command with your GitHub username.
-- Upload the two images (`Screenshot 2024-09-23 185424.png` and `Screenshot 2024-09-23 191151.png`) to your GitHub repository so that the paths in the markdown can correctly display the images.
+- Upload the two images to your GitHub repository so that the paths in the markdown can correctly display the images.
 
 Once the images are uploaded and the notebook file is included in the repo, this `README.md` will ensure everything is documented and the images display correctly.
